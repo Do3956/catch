@@ -1,0 +1,15 @@
+{
+  "log":{
+    "level":"INFO",
+    "file":"log/log.log"
+  },
+  "user":{
+    "name":"DO3956",
+    "password":"DOpython27"
+  },
+  "dataDir":"data",
+  "baidutieba":{
+    "onlyAuthor":1,
+    "urlList":["https://tieba.baidu.com/p/4935228097"]
+  }
+}
